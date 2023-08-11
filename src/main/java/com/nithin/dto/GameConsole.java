@@ -1,0 +1,8 @@
+package com.nithin.dto;
+
+public interface GameConsole {
+    void up();
+    void down();
+    void left();
+    void right();
+}
